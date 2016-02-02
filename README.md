@@ -1,2 +1,3 @@
 # PugWhatEver-Core
-Core for the server Pug What Ever.
+The PugWhatEver Core is to be used for PugWhatEver mainly.
+This is currently in beta and is NOT finished.
